@@ -17,10 +17,7 @@ body{
     font-family: 'Roboto', sans-serif;
     background-color: #101214;
     color: cyan;
-    background-image: url('IMG_5903.jpg'); /* Replace 'your-background-image.jpg' with the actual image path */
-    background-size: cover; /* Adjust the sizing as needed */
-    background-repeat: no-repeat;
-    background-position: left top; /* Position the image on the left */
+   
 
 }
 
