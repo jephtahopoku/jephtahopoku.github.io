@@ -17,10 +17,7 @@ body{
     font-family: 'Roboto', sans-serif;
     background-color: #101214;
     color: cyan;
-    background-image: url('IMG_5903.HEIC'); /* Replace 'background.jpg' with the actual image file name */
-    background-size: cover; /* This will cover the entire viewport */
-    background-position: left top; /* Adjust the position as needed */
-    background-repeat: no-repeat; /* Prevent image repetition */
+
 
  
 
