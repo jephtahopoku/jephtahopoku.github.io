@@ -17,15 +17,7 @@ body{
     font-family: 'Roboto', sans-serif;
     background-color: #101214;
     color: cyan;
-    content: "";
-  position: fixed;
-  background:  url("IMG_5903.JPG") top left no-repeat;
-  background-size: cover;
-  left: 0;
-  right: 0;
-  top: 0;
-  height: 100vh;
-  z-index: -1;
+ 
 
 }
 
